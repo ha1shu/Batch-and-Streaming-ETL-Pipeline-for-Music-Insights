@@ -63,6 +63,9 @@ Data is brought into Azure using:
 * **ADF pipelines** for scheduled or incremental batch loads
 * **Spark Structured Streaming** for streaming data ingestion
 * **Auto Loader** for scalable file ingestion
+  
+  #### ADF Pipeline – SQL DB to Bronze Layer
+  <img width="1182" height="570" alt="image" src="https://github.com/user-attachments/assets/a7c7539d-0bd0-41a4-9fe1-9b7f6f06c603" />
 
 ### 2) Bronze Layer
 
